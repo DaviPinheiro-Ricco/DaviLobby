@@ -32,7 +32,7 @@ const Davi = {
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,html,css,git,github,vscode&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,docker,aws,html,css,git,github,vscode&theme=dark&perline=5)](https://skillicons.dev)
 
 </div>
 
