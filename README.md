@@ -17,7 +17,7 @@
 ---
 
 ```javascript
-const wendell = {
+const Davi = {
   cargo:    "Software Engineer",
   cidade:   "Mineiros - GO, Brasil",
   formação: "Sistemas de Informação · Unifimes",
